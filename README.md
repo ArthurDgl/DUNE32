@@ -1,2 +1,2 @@
-![DUNE32 drawio](https://github.com/user-attachments/assets/9dcd76e3-b6ba-4b5e-9b57-02b08a9bf723)
+![image](https://github.com/user-attachments/assets/e535ffde-377d-4d18-a92f-8806c8917082)
 (not the actual diagram)
