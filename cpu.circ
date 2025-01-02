@@ -205,15 +205,15 @@
       <a name="facing" val="east"/>
       <a name="label" val="CLK"/>
     </comp>
-    <comp lib="0" loc="(430,820)" name="Pin">
+    <comp lib="0" loc="(470,860)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="label" val="INTERRUPT"/>
+    </comp>
+    <comp lib="0" loc="(520,840)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="label" val="INTERRUPT_MSG"/>
       <a name="radix" val="16"/>
       <a name="width" val="31"/>
-    </comp>
-    <comp lib="0" loc="(430,860)" name="Pin">
-      <a name="appearance" val="NewPins"/>
-      <a name="label" val="INTERRUPT"/>
     </comp>
     <comp lib="0" loc="(540,880)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -445,11 +445,9 @@
     <wire from="(2240,640)" to="(2240,1470)"/>
     <wire from="(2250,620)" to="(2250,1480)"/>
     <wire from="(2260,600)" to="(2260,1490)"/>
-    <wire from="(430,820)" to="(450,820)"/>
-    <wire from="(430,860)" to="(540,860)"/>
-    <wire from="(450,820)" to="(450,840)"/>
-    <wire from="(450,840)" to="(540,840)"/>
+    <wire from="(470,860)" to="(540,860)"/>
     <wire from="(520,1290)" to="(2060,1290)"/>
+    <wire from="(520,840)" to="(540,840)"/>
     <wire from="(520,920)" to="(520,1290)"/>
     <wire from="(520,920)" to="(540,920)"/>
     <wire from="(530,1280)" to="(2050,1280)"/>
